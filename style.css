@@ -1,0 +1,36 @@
+#barraPrincipal{
+    margin-left: -15px;
+    margin-right: -15px; 
+}
+.fondo{
+    background-color: rgb(141, 141, 141);
+    border-radius: 10px;
+}
+#carouselExampleCaptions{
+    margin-left: -15px;
+    margin-right: -15px; 
+}
+
+.card{
+    text-align: center;
+    float: left;
+    padding: 30px;
+    
+}
+
+.card-body{
+    float:left; 
+    padding: 50px;
+    
+}
+
+.card-body h4{
+    font-family:cursive;
+    font-size: 25px;
+    padding: 5px;
+    
+}
+
+#datos{
+    background-color: rgb(61, 58, 58);
+}
